@@ -12,3 +12,8 @@ var weight = 215;
 var isMan = true;
 var isYoung = true;
 var hasDegree = true;
+
+//Variables Assigned to Arrays
+var features = ["brown hair", "green eyes", "fair skin"];
+var familyMembers = ["Chris", "Beth", "Emma"];
+var pets = ["Dog"];
